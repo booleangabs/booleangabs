@@ -2,7 +2,7 @@
 ### Computer Science (CIn/UFPE) - Undergrad Student :brazil:
 #### Interested in image processing, computer vision, natural language processing and robotics
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=booleangabs&count_private=true) \
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=booleangabs)](https://github.com/anuraghazra/github-readme-stats) \
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=booleangabs)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
