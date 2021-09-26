@@ -1,9 +1,12 @@
 # Gabriel Tavares
 ### Computer Science (CIn/UFPE) - Undergrad Student :brazil:
-#### Interested in image processing, computer vision, natural language processing and robotics
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=booleangabs&count_private=true) \
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=booleangabs)](https://github.com/anuraghazra/github-readme-stats)
+Interested in image processing, computer vision, natural language processing and robotics \
+A.I. Team Leader and UAV project manager @ [Asa Branca Aerospace](https://github.com/RDAsaBranca) \
+Teaching Assisting for [IF668 - Introduction to Computer Science](https://www.cin.ufpe.br/~if668/) (2020.2, 2021.1)   
+***
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=booleangabs&count_private=true)  
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=booleangabs)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
