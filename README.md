@@ -2,7 +2,7 @@
 ### Computer Science (CIn/UFPE) - Undergrad Student :brazil:
 Interested in image processing, computer vision, natural language processing and robotics \
 A.I. Team Leader and UAV project manager @ [Asa Branca Aerospace](https://github.com/RDAsaBranca) \
-Teaching Assisting for [IF668 - Introduction to Computer Science](https://www.cin.ufpe.br/~if668/) (2020.2, 2021.1)   
+Teaching Assisting for <a href="https://www.cin.ufpe.br/~if668/" target="_blank">IF668 - Introduction to Computer Science</a> (2020.2, 2021.1)   
 ***
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=booleangabs&count_private=true)  
 
