@@ -4,6 +4,20 @@ Interested in image processing, computer vision, natural language processing and
 A.I. Team Leader and UAV project manager @ [Asa Branca Aerospace](https://github.com/RDAsaBranca) \
 Teaching Assisting for <a href="https://www.cin.ufpe.br/~if668/" target="_blank">IF668 - Introduction to Computer Science</a> (2020.2, 2021.1)   
 ***
+### Projects
+- Image Processing
+  - [Image processing from scratch using Numpy](https://github.com/booleangabs/Image-Processing-With-Numpy)
+- Machine Learning and related
+  - [Machine learning from scratch using Numpy](https://github.com/booleangabs/Machine-Learning-With-Numpy)
+  - [Probability and statistics in raw Python](https://github.com/booleangabs/Probability-and-Statistics-From-Scratch)
+- Computer Vision
+- Natural Language Processing
+- Programming
+  - [Java](https://github.com/booleangabs/Learning-Java)
+- College Projects
+  - [Game using Python - Introduction to Programming 2020.1](https://github.com/booleangabs/Projeto-IP-2020.1)
+  - [Dashboard project with R and Shiny - Probability and Statistics for Computer Science 2020.2](https://github.com/booleangabs/Airlines-Data-Dashboard)
+***
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=booleangabs&count_private=true)  
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=booleangabs)](https://github.com/anuraghazra/github-readme-stats)
