@@ -10,10 +10,16 @@ Teaching Assistant for <a href="https://www.cin.ufpe.br/~if668/" target="_blank"
 - Machine Learning and related
   - [Machine learning from scratch using Numpy](https://github.com/booleangabs/Machine-Learning-With-Numpy)
   - [Probability and statistics in raw Python](https://github.com/booleangabs/Probability-and-Statistics-From-Scratch)
+  - [Machine learning projects with Scikit-learn, Pandas, Numpy, Tensorflow and Pytorch](https://github.com/booleangabs/Machine-Learning-Projects)
 - Computer Vision
+  - [Computer vision projects](https://github.com/booleangabs/Computer-Vision-Projects)
 - Natural Language Processing
+  - [NLP projects](https://github.com/booleangabs/NLP-Projects)
+- Robotics
+  - [Robotics projects](https://github.com/booleangabs/Robotics-projects)
 - Programming
   - [Java](https://github.com/booleangabs/Learning-Java)
+  - [C and C++](https://github.com/booleangabs/Learning-C-and-Cpp)
 - College Projects
   - [Game using Python - Introduction to Programming 2020.1](https://github.com/booleangabs/Projeto-IP-2020.1)
   - [Dashboard project with R and Shiny - Probability and Statistics for Computer Science 2020.2](https://github.com/booleangabs/Airlines-Data-Dashboard)
