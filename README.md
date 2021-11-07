@@ -28,7 +28,7 @@ Teaching Assistant for <a href="https://www.cin.ufpe.br/~if668/" target="_blank"
 - Machine Learning and related
   - [Machine learning from scratch using Numpy](https://github.com/booleangabs/Machine-Learning-With-Numpy)
   - [Probability and statistics in raw Python](https://github.com/booleangabs/Probability-and-Statistics-From-Scratch)
-  - [Machine learning projects with Scikit-learn, Pandas, Numpy, Tensorflow and Pytorch](https://github.com/booleangabs/Machine-Learning-Projects)
+  - [Machine learning projects in Python, Julia and R](https://github.com/booleangabs/Machine-Learning-Projects)
 - Computer Vision
   - [Computer vision projects](https://github.com/booleangabs/Computer-Vision-Projects)
 - Natural Language Processing
