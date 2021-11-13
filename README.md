@@ -43,6 +43,7 @@ Teaching Assistant for <a href="https://www.cin.ufpe.br/~if668/" target="_blank"
   - [Game using Python - Introduction to Programming 2020.1](https://github.com/booleangabs/Projeto-IP-2020.1)
   - [Dashboard project with R and Shiny - Probability and Statistics for Computer Science 2020.2](https://github.com/booleangabs/Airlines-Data-Dashboard)
   - [Study notes and python code - Communication Infrastructure (Computer Networks and Internet) 2021.1](https://github.com/booleangabs/IF678-Computer-Networks-and-Internet)
+  - [Fake music player using concurrent programming in Java - Software Infrastructure 2021.1](https://github.com/booleangabs/infrasw-cc-2021.1-projeto_concorrencia)
 ***
 
 
