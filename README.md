@@ -6,7 +6,6 @@ Teaching Assistant for <a href="https://www.cin.ufpe.br/~if668/" target="_blank"
 <div align="center">
   <img style= "height: 50"src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></img>
   <img style= "height: 50"src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></img>
-  <img style= "height: 50"src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"></img>
   <img style= "height: 50"src="https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white"></img>
   <img style= "height: 50"src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"></img>
 </div>
