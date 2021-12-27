@@ -38,6 +38,8 @@ Teaching Assistant for <a href="https://www.cin.ufpe.br/~if668/" target="_blank"
   - [Java](https://github.com/booleangabs/Learning-Java)
   - [C++](https://github.com/booleangabs/Learning-Cpp)
   - [Algorithms and Data Structures in Python and C++](https://github.com/booleangabs/Algorithms-and-Data-Structures)
+- Games
+  - [Pong in Java, Python and C++](https://github.com/booleangabs/Pong)
 - College Projects
   - [Game using Python - Introduction to Programming 2020.1](https://github.com/booleangabs/Projeto-IP-2020.1)
   - [Dashboard project with R and Shiny - Probability and Statistics for Computer Science 2020.2](https://github.com/booleangabs/Airlines-Data-Dashboard)
