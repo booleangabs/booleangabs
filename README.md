@@ -3,25 +3,43 @@
 Interested in image processing, computer vision, natural language processing and robotics \
 A.I. Team Leader and UAV project director @ [Asa Branca Aerospace](https://github.com/RDAsaBranca) \
 Teaching Assistant for <a href="https://www.cin.ufpe.br/~if668/" target="_blank">IF668 - Introduction to Computer Science</a> (2020.2, 2021.1)   
+
+# Skills
+
+## Programming Languages
 <div align="center">
-  <img style= "height: 50"src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></img>
-  <img style= "height: 50"src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></img>
-  <img style= "height: 50"src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></img>
-  <img style= "height: 50"src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"></img>
-</div>
-<div align="center">
-  <img style= "height: 50"src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"></img>
-  <img style= "height: 50"src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"></img>
-  <img style= "height: 50"src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></img>
-  <img style= "height: 50"src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"></img>
-  <img style= "height: 50"src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"></img>
-  <img style= "height: 50"src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"></img>
-  <img style= "height: 50"src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"></img>
+  <img style= "height: 4vh;" src="https://img.shields.io/badge/Advanced-Python-366B9A"></img>
+  <img style= "height: 4vh;" src="https://img.shields.io/badge/Advanced-Lua-000079"></img>
+  <img style= "height: 4vh;" src="https://img.shields.io/badge/Intermediate-C++-0C7FC4"></img>
+  <img style= "height: 4vh;" src="https://img.shields.io/badge/Intermediate-Java-E01E23"></img>
+  <img style= "height: 4vh;" src="https://img.shields.io/badge/Beginner-R-1E63B2"></img>
 </div>
 
+## Libraries and frameworks
+### Python 
+<div align="center">
+  <img style= "height: 4vh;" src="https://img.shields.io/badge/Image%20Processing-OpenCV-FF2A44"></img>
+  <img style= "height: 4vh;" src="https://img.shields.io/badge/Deep%20Learning-Tensorflow-E68A23"></img>
+  <img style= "height: 4vh;" src="https://img.shields.io/badge/Deep%20Learning-Keras-C50000"></img>
+  <img style= "height: 4vh;" src="https://img.shields.io/badge/Deep%20Learning-PyTorch-E2482A"></img>
+  <img style= "height: 4vh;" src="https://img.shields.io/badge/Machine%20Learning-Scikit%E2%80%93learn-EB9136"></img>
+  <img style= "height: 4vh;" src="https://img.shields.io/badge/Array%20Manipulation-NumPy-4971C4"></img>
+  <img style= "height: 4vh;" src="https://img.shields.io/badge/Data%20Manipulation-Pandas-120750"></img>
+  <img style= "height: 4vh;" src="https://img.shields.io/badge/Data%20Visualization-Matplotlib-0D4E73"></img>
+  <img style= "height: 4vh;" src="https://img.shields.io/badge/Data%20Visualization-Seaborn-444876"></img>
+</div>
+
+## Other
+<div align="center">
+  <img style= "height: 4vh;" src="https://img.shields.io/badge/Advanced-LaTeX-000000"></img>
+  <img style= "height: 4vh;" src="https://img.shields.io/badge/Intermediate-Arduino-199299"></img>
+  <img style= "height: 4vh;" src="https://img.shields.io/badge/Intermediate-Raspberry%20Pi-CB244B"></img>
+</div>
+
+# Connect with me
 
 
-### Projects
+# Projects
 - Image Processing
   - [Image processing from scratch using Numpy](https://github.com/booleangabs/Image-Processing-With-Numpy)
 - Machine Learning and related
