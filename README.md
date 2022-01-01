@@ -1,8 +1,16 @@
-# Gabriel Tavares
-### Computer Science (CIn/UFPE) - Undergrad Student :brazil:
-Interested in image processing, computer vision, natural language processing and robotics \
-A.I. Team Leader and UAV project director @ [Asa Branca Aerospace](https://github.com/RDAsaBranca) \
-Teaching Assistant for <a href="https://www.cin.ufpe.br/~if668/" target="_blank">IF668 - Introduction to Computer Science</a> (2020.2, 2021.1)   
+<div align="center">
+  <img style="width: 50vw" src="https://64.media.tumblr.com/e72a2a1f474fc2c744bf8f94f13f7cdb/tumblr_nwcl6d1AQZ1r9mds2o1_1280.gifv"></img>
+  <h1>Gabriel Tavares</h1>
+  <h3>Computer Science (CIn/UFPE) - Undergrad Student</h3>
+  <p>
+  Interested in image processing, computer vision, natural language processing and robotics
+  </br>
+  A.I. Team Leader and UAV project director @ <a href="https://github.com/RDAsaBranca" target="_blank">Asa Branca Aerospace</a>
+  </br>
+  Teaching Assistant for <a href="https://www.cin.ufpe.br/~if668/" target="_blank">IF668 - Introduction to Computer Science</a> (2020.2, 2021.1)   
+  </p>
+</div>
+
 
 # Skills
 
