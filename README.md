@@ -29,14 +29,36 @@ Teaching Assistant for <a href="https://www.cin.ufpe.br/~if668/" target="_blank"
   <img style= "height: 4vh;" src="https://img.shields.io/badge/Data%20Visualization-Seaborn-444876"></img>
 </div>
 
+### C++
+<div align="center">
+  <img style= "height: 4vh;" src="https://img.shields.io/badge/Image%20Processing-OpenCV-FF2A44"></img>
+  <img style= "height: 4vh;" src="https://img.shields.io/badge/Image%20Processing-Magick++-0606C9"></img>
+  <img style= "height: 4vh;" src="https://img.shields.io/badge/Linear%20Algebra-Eigen-79430A"></img>
+</div>
+
+### Java
+<div align="center">
+  <img style= "height: 4vh;" src="https://img.shields.io/badge/Image%20Processing-OpenCV-FF2A44"></img>
+</div>
+
 ## Other
 <div align="center">
   <img style= "height: 4vh;" src="https://img.shields.io/badge/Advanced-LaTeX-000000"></img>
+  <img style= "height: 4vh;" src="https://img.shields.io/badge/Advanced-CoppeliaSim%20%28Previously%20V%E2%80%93Rep%29-E33F44"></img>
+  <img style= "height: 4vh;" src="https://img.shields.io/badge/Intermediate-Linux-000000"></img>
   <img style= "height: 4vh;" src="https://img.shields.io/badge/Intermediate-Arduino-199299"></img>
   <img style= "height: 4vh;" src="https://img.shields.io/badge/Intermediate-Raspberry%20Pi-CB244B"></img>
+  <img style= "height: 4vh;" src="https://img.shields.io/badge/Beginner-Blender-DE7000"></img>
+  <img style= "height: 4vh;" src="https://img.shields.io/badge/Beginner-ROS-202E4A"></img>
 </div>
 
-# Connect with me
+# Find me on
+<div align="center">
+  <a href="https://www.linkedin.com/in/jgp-tavares/" target="_blank"><img style= "height: 5vh;" src="https://img.shields.io/badge/-LinkedIn-F0F0F0"></img></a>
+  <a href="https://www.cin.ufpe.br/~jgpt" target="_blank"><img style= "height: 5vh;" src="https://img.shields.io/badge/-Website-0F0F0F"></img></a>
+  <a href="https://medium.com/@gabrieltavares1303" target="_blank"><img style= "height: 5vh;" src="https://img.shields.io/badge/-Medium-F0F0F0"></img></a>
+  <a href="https://www.instagram.com/gabriel.tvrs/" target="_blank"><img style= "height: 5vh;" src="https://img.shields.io/badge/-Instagram-0F0F0F"></img></a>
+</div>
 
 
 # Projects
