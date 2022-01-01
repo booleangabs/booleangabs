@@ -1,5 +1,5 @@
 <div align="center">
-  <img style="width: 50vw" src="https://64.media.tumblr.com/e72a2a1f474fc2c744bf8f94f13f7cdb/tumblr_nwcl6d1AQZ1r9mds2o1_1280.gifv"></img>
+  <img style="width: 80vh" src="https://64.media.tumblr.com/e72a2a1f474fc2c744bf8f94f13f7cdb/tumblr_nwcl6d1AQZ1r9mds2o1_1280.gifv"></img>
   <h1>Gabriel Tavares</h1>
   <h3>Computer Science (CIn/UFPE) - Undergrad Student</h3>
   <p>
