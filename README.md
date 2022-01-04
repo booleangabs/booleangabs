@@ -12,7 +12,7 @@
 </div>
 
 
-# Skills
+# Skills 🧮
 
 ## Programming Languages
 <div align="center">
@@ -24,7 +24,7 @@
 </div>
 
 ## Libraries and frameworks
-### Python 
+### Python 🐍
 <div align="center">
   <img style= "height: 4vh;" src="https://img.shields.io/badge/Image%20Processing-OpenCV-FF2A44"></img>
   <img style= "height: 4vh;" src="https://img.shields.io/badge/Deep%20Learning-Tensorflow-E68A23"></img>
@@ -37,14 +37,14 @@
   <img style= "height: 4vh;" src="https://img.shields.io/badge/Data%20Visualization-Seaborn-444876"></img>
 </div>
 
-### C++
+### C++ 🖥️
 <div align="center">
   <img style= "height: 4vh;" src="https://img.shields.io/badge/Image%20Processing-OpenCV-FF2A44"></img>
   <img style= "height: 4vh;" src="https://img.shields.io/badge/Image%20Processing-Magick++-0606C9"></img>
   <img style= "height: 4vh;" src="https://img.shields.io/badge/Linear%20Algebra-Eigen-79430A"></img>
 </div>
 
-### Java
+### Java ☕
 <div align="center">
   <img style= "height: 4vh;" src="https://img.shields.io/badge/Image%20Processing-OpenCV-FF2A44"></img>
 </div>
@@ -60,31 +60,47 @@
   <img style= "height: 4vh;" src="https://img.shields.io/badge/Beginner-ROS-202E4A"></img>
 </div>
 
-# Find me on
+# Find me on ☎️
 <div align="center">
   <a href="https://www.linkedin.com/in/jgp-tavares/" target="_blank"><img style= "height: 5vh;" src="https://img.shields.io/badge/-LinkedIn-F0F0F0"></img></a>
   <a href="https://www.cin.ufpe.br/~jgpt" target="_blank"><img style= "height: 5vh;" src="https://img.shields.io/badge/-Website-0F0F0F"></img></a>
   <a href="https://medium.com/@gabrieltavares1303" target="_blank"><img style= "height: 5vh;" src="https://img.shields.io/badge/-Medium-F0F0F0"></img></a>
   <a href="https://www.instagram.com/gabriel.tvrs/" target="_blank"><img style= "height: 5vh;" src="https://img.shields.io/badge/-Instagram-0F0F0F"></img></a>
+  <a href="https://www.hackerrank.com/jgpt1" target="_blank"><img style= "height: 5vh;" src="https://img.shields.io/badge/-HackerRank-F0F0F0"></img></a>
 </div>
 
+# Highlighted projects 🔭
+⚫ [Probability and statistics in raw Python](https://github.com/booleangabs/Probability-and-Statistics-From-Scratch)
 
-# Projects
+⚫ [Image processing from scratch using Numpy](https://github.com/booleangabs/Image-Processing-With-Numpy)
+
+⚫ [Machine learning from scratch using Numpy](https://github.com/booleangabs/Machine-Learning-With-Numpy)
+
+⚫ [Pong in Java, Python and C++](https://github.com/booleangabs/Pong)
+
+⚫ [Data Science projects in Python and R](https://github.com/booleangabs/Data-Science-Projects)
+
+
+# Projects 🛰️
 - Image Processing
   - [Image processing from scratch using Numpy](https://github.com/booleangabs/Image-Processing-With-Numpy)
 - Machine Learning and related
   - [Machine learning from scratch using Numpy](https://github.com/booleangabs/Machine-Learning-With-Numpy)
   - [Probability and statistics in raw Python](https://github.com/booleangabs/Probability-and-Statistics-From-Scratch)
   - [Machine learning projects in Python, Julia and R](https://github.com/booleangabs/Machine-Learning-Projects)
-- Computer Vision
+  - [Data Science projects in Python and R](https://github.com/booleangabs/Data-Science-Projects)
+- Computer Vision and related
   - [Computer vision projects](https://github.com/booleangabs/Computer-Vision-Projects)
-- Natural Language Processing
+- Natural Language Processing and related
   - [NLP projects](https://github.com/booleangabs/NLP-Projects)
-- Robotics
+- Robotics and related
   - [Robotics projects](https://github.com/booleangabs/Robotics-projects)
-- Programming
+  - [Arduino Projects](https://github.com/booleangabs/Arduino-Projects)
+- Programming and related
   - [Java](https://github.com/booleangabs/Learning-Java)
   - [C++](https://github.com/booleangabs/Learning-Cpp)
+  - [SQL and MySQL](https://github.com/booleangabs/SQL-and-MySQL)
+  - [R](https://github.com/booleangabs/R)
   - [Algorithms and Data Structures in Python and C++](https://github.com/booleangabs/Algorithms-and-Data-Structures)
 - Games
   - [Pong in Java, Python and C++](https://github.com/booleangabs/Pong)
@@ -95,7 +111,7 @@
   - [Fake music player using concurrent programming in Java - Software Infrastructure 2021.1](https://github.com/booleangabs/infrasw-cc-2021.1-projeto_concorrencia)
 ***
 
-
+# Github Information 📊
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=booleangabs&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"></img>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=booleangabs&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"></img>
