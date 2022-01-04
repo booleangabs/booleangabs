@@ -99,8 +99,8 @@
 - Programming and related
   - [Java](https://github.com/booleangabs/Learning-Java)
   - [C++](https://github.com/booleangabs/Learning-Cpp)
-  - [SQL and MySQL](https://github.com/booleangabs/SQL-and-MySQL)
-  - [R](https://github.com/booleangabs/R)
+  - [SQL and MySQL](https://github.com/booleangabs/Learning-SQL-and-MySQL)
+  - [R](https://github.com/booleangabs/Learning-R)
   - [Algorithms and Data Structures in Python and C++](https://github.com/booleangabs/Algorithms-and-Data-Structures)
 - Games
   - [Pong in Java, Python and C++](https://github.com/booleangabs/Pong)
