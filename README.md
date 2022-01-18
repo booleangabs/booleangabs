@@ -52,7 +52,6 @@
   <img style= "height: 4vh;" src="https://img.shields.io/badge/Advanced-LaTeX-000000"></img>
   <img style= "height: 4vh;" src="https://img.shields.io/badge/Advanced-CoppeliaSim%20%28Previously%20V%E2%80%93Rep%29-E33F44"></img>
   <img style= "height: 4vh;" src="https://img.shields.io/badge/Intermediate-Linux-000000"></img>
-  <img style= "height: 4vh;" src="https://img.shields.io/badge/Intermediate-Arduino-199299"></img>
   <img style= "height: 4vh;" src="https://img.shields.io/badge/Intermediate-Raspberry%20Pi-CB244B"></img>
   <img style= "height: 4vh;" src="https://img.shields.io/badge/Beginner-Blender-DE7000"></img>
   <img style= "height: 4vh;" src="https://img.shields.io/badge/Beginner-ROS-202E4A"></img>
@@ -93,11 +92,9 @@
   - [NLP projects](https://github.com/booleangabs/NLP-Projects)
 - Robotics and related
   - [Robotics projects](https://github.com/booleangabs/Robotics-projects)
-  - [Arduino Projects](https://github.com/booleangabs/Arduino-Projects)
 - Programming and related
   - [Java](https://github.com/booleangabs/Learning-Java)
   - [C++](https://github.com/booleangabs/Learning-Cpp)
-  - [SQL and MySQL](https://github.com/booleangabs/Learning-SQL-and-MySQL)
   - [R](https://github.com/booleangabs/Learning-R)
   - [Algorithms and Data Structures in Python and C++](https://github.com/booleangabs/Algorithms-and-Data-Structures)
 - Games
