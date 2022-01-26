@@ -3,7 +3,7 @@
   <h1>Gabriel Tavares</h1>
   <h3>Computer Science (CIn/UFPE) - Undergrad Student</h3>
   <p>
-  Interested in image processing, computer vision, natural language processing and robotics
+  Interested in machine learning, deep learning, data analysis and image processing
   </br>
   A.I. Team Leader and UAV project director @ <a href="https://github.com/RDAsaBranca" target="_blank">Asa Branca Aerospace</a>
   </br>
