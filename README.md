@@ -18,8 +18,8 @@
 <div align="center">
   <img style= "height: 4vh;" src="https://img.shields.io/badge/Advanced-Python-366B9A"></img>
   <img style= "height: 4vh;" src="https://img.shields.io/badge/Intermediate-C++-0C7FC4"></img>
-  <img style= "height: 4vh;" src="https://img.shields.io/badge/Intermediate-Java-E01E23"></img>
   <img style= "height: 4vh;" src="https://img.shields.io/badge/Beginner-R-1E63B2"></img>
+  <img style= "height: 4vh;" src="https://img.shields.io/badge/Beginner-SQL-E01E23"></img>
 </div>
 
 ## Libraries and frameworks
@@ -40,11 +40,6 @@
 <div align="center">
   <img style= "height: 4vh;" src="https://img.shields.io/badge/Image%20Processing-OpenCV-FF2A44"></img>
   <img style= "height: 4vh;" src="https://img.shields.io/badge/Linear%20Algebra-Eigen-79430A"></img>
-</div>
-
-### Java ☕
-<div align="center">
-  <img style= "height: 4vh;" src="https://img.shields.io/badge/Image%20Processing-OpenCV-FF2A44"></img>
 </div>
 
 ## Other
