@@ -39,7 +39,6 @@
 ### C++ 🖥️
 <div align="center">
   <img style= "height: 4vh;" src="https://img.shields.io/badge/Image%20Processing-OpenCV-FF2A44"></img>
-  <img style= "height: 4vh;" src="https://img.shields.io/badge/Linear%20Algebra-Eigen-79430A"></img>
 </div>
 
 ## Other
