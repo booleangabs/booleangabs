@@ -5,7 +5,7 @@
   <p>
   Interested in machine learning, deep learning, data analysis and image processing
   </br>
-  A.I. Team Leader and UAV project director @ <a href="https://github.com/RDAsaBranca" target="_blank">Asa Branca Aerospace</a>
+  A.I. Team Leader @ <a href="https://github.com/RDAsaBranca" target="_blank">Asa Branca Aerospace</a>
   </br>
   Teaching Assistant for <a href="https://www.cin.ufpe.br/~if668/" target="_blank">IF668 - Introduction to Computer Science</a> (2020.2, 2021.1)   
   </p>
