@@ -3,9 +3,11 @@
   <h1>Gabriel Tavares</h1>
   <h3>Computer Science (CIn/UFPE) - Undergrad Student</h3>
   <p>
-  Interested in machine learning, deep learning, data analysis and image processing
+  Interested in deep learning, image processing and computer vision
   </br>
   A.I. Team Leader @ <a href="https://github.com/RDAsaBranca" target="_blank">Asa Branca Aerospace</a>
+  </br>
+  Undergradiate Researcher in Computational Photography @ Projeto CIn / Motorola
   </br>
   Teaching Assistant for <a href="https://www.cin.ufpe.br/~if668/" target="_blank">IF668 - Introduction to Computer Science</a> (2020.2, 2021.1)   
   </p>
@@ -44,11 +46,8 @@
 ## Other
 <div align="center">
   <img style= "height: 4vh;" src="https://img.shields.io/badge/Advanced-LaTeX-000000"></img>
-  <img style= "height: 4vh;" src="https://img.shields.io/badge/Advanced-CoppeliaSim%20%28Previously%20V%E2%80%93Rep%29-E33F44"></img>
   <img style= "height: 4vh;" src="https://img.shields.io/badge/Intermediate-Linux-000000"></img>
-  <img style= "height: 4vh;" src="https://img.shields.io/badge/Intermediate-Raspberry%20Pi-CB244B"></img>
-  <img style= "height: 4vh;" src="https://img.shields.io/badge/Beginner-Blender-DE7000"></img>
-  <img style= "height: 4vh;" src="https://img.shields.io/badge/Beginner-ROS-202E4A"></img>
+  <img style= "height: 4vh;" src="https://img.shields.io/badge/Beginner-Halide%20(DSL)-CB244B"></img>
 </div>
 
 # Find me on ☎️
@@ -78,16 +77,10 @@
 - Machine Learning and related
   - [Machine learning from scratch using Numpy](https://github.com/booleangabs/Machine-Learning-With-Numpy)
   - [Probability and statistics in raw Python](https://github.com/booleangabs/Probability-and-Statistics-From-Scratch)
-  - [Machine learning projects in Python, Julia and R](https://github.com/booleangabs/Machine-Learning-Projects)
   - [Data Science projects in Python and R](https://github.com/booleangabs/Data-Science-Projects)
 - Computer Vision and related
   - [Computer vision projects](https://github.com/booleangabs/Computer-Vision-Projects)
-- Natural Language Processing and related
-  - [NLP projects](https://github.com/booleangabs/NLP-Projects)
-- Robotics and related
-  - [Robotics projects](https://github.com/booleangabs/Robotics-projects)
 - Programming and related
-  - [Java](https://github.com/booleangabs/Learning-Java)
   - [C++](https://github.com/booleangabs/Learning-Cpp)
   - [R](https://github.com/booleangabs/Learning-R)
   - [Algorithms and Data Structures in Python and C++](https://github.com/booleangabs/Algorithms-and-Data-Structures)
