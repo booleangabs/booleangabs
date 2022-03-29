@@ -80,9 +80,6 @@
   - [Data Science projects in Python and R](https://github.com/booleangabs/Data-Science-Projects)
 - Computer Vision and related
   - [Computer vision projects](https://github.com/booleangabs/Computer-Vision-Projects)
-- Programming and related
-  - [C++](https://github.com/booleangabs/Learning-Cpp)
-  - [R](https://github.com/booleangabs/Learning-R)
   - [Algorithms and Data Structures in Python and C++](https://github.com/booleangabs/Algorithms-and-Data-Structures)
 - Games
   - [Pong in Java, Python and C++](https://github.com/booleangabs/Pong)
