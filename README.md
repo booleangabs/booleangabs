@@ -95,7 +95,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=booleangabs&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"></img>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=booleangabs&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"></img>
 </div>
-
-<audio controls autoplay>
-  <source src="https://www.computerhope.com/jargon/m/example.mp3" />
-</audio>
