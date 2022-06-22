@@ -41,13 +41,13 @@
 ### C++ 🖥️
 <div align="center">
   <img style= "height: 4vh;" src="https://img.shields.io/badge/Image%20Processing-OpenCV-FF2A44"></img>
+  <img style= "height: 4vh;" src="https://img.shields.io/badge/Image%20Processing-Halide%20(DSL)-CB244B"></img>
 </div>
 
 ## Other
 <div align="center">
   <img style= "height: 4vh;" src="https://img.shields.io/badge/Advanced-LaTeX-000000"></img>
   <img style= "height: 4vh;" src="https://img.shields.io/badge/Intermediate-Linux-000000"></img>
-  <img style= "height: 4vh;" src="https://img.shields.io/badge/Beginner-Halide%20(DSL)-CB244B"></img>
 </div>
 
 # Find me on ☎️
