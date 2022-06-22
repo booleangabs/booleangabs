@@ -18,10 +18,10 @@
 
 ## Programming Languages
 <div align="center">
-  <img style= "height: 4vh;" src="https://img.shields.io/badge/Advanced-Python-366B9A"></img>
-  <img style= "height: 4vh;" src="https://img.shields.io/badge/Intermediate-C++-0C7FC4"></img>
-  <img style= "height: 4vh;" src="https://img.shields.io/badge/Beginner-R-1E63B2"></img>
-  <img style= "height: 4vh;" src="https://img.shields.io/badge/Beginner-SQL-E01E23"></img>
+  <img style= "height: 4vh;" src="https://img.shields.io/badge/2%20years-Python-366B9A"></img>
+  <img style= "height: 4vh;" src="https://img.shields.io/badge/6%20Months-C++-0C7FC4"></img>
+  <img style= "height: 4vh;" src="https://img.shields.io/badge/Starting-R-1E63B2"></img>
+  <img style= "height: 4vh;" src="https://img.shields.io/badge/Starting-SQL-E01E23"></img>
 </div>
 
 ## Libraries and frameworks
