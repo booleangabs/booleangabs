@@ -16,7 +16,7 @@
 
 # Skills 🧮
 
-## Programming Languages
+## Programming languages and related
 <div align="center">
   <img style= "height: 4vh;" src="https://img.shields.io/badge/2%20years-Python-366B9A"></img>
   <img style= "height: 4vh;" src="https://img.shields.io/badge/6%20Months-C++-0C7FC4"></img>
@@ -24,7 +24,7 @@
   <img style= "height: 4vh;" src="https://img.shields.io/badge/Starting-SQL-E01E23"></img>
 </div>
 
-## Libraries and frameworks
+## Libraries, frameworks and tools
 ### Python 🐍
 <div align="center">
   <img style= "height: 4vh;" src="https://img.shields.io/badge/Image%20Processing-OpenCV-FF2A44"></img>
