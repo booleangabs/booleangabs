@@ -5,7 +5,7 @@
   <p>
   Interested in deep learning, image processing and computer vision
   </br>
-  Undergradiate Researcher in Computational Photography @ Projeto CIn / Motorola
+  Undergraduate Researcher in Computational Photography @ Projeto CIn / Motorola
   </br>
   Former A.I. Team Leader @ <a href="https://github.com/RDAsaBranca" target="_blank">Asa Branca Aerospace</a> (2020-2022)
   </br>
