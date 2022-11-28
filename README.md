@@ -19,7 +19,7 @@
 ## Programming languages and related
 <div align="center">
   <img style= "height: 4vh;" src="https://img.shields.io/badge/2%20years-Python-366B9A"></img>
-  <img style= "height: 4vh;" src="https://img.shields.io/badge/6%20Months-C++-0C7FC4"></img>
+  <img style= "height: 4vh;" src="https://img.shields.io/badge/10%20Months-C++-0C7FC4"></img>
   <img style= "height: 4vh;" src="https://img.shields.io/badge/Starting-R-1E63B2"></img>
   <img style= "height: 4vh;" src="https://img.shields.io/badge/Starting-SQL-E01E23"></img>
 </div>
@@ -56,7 +56,6 @@
   <a href="https://www.cin.ufpe.br/~jgpt" target="_blank"><img style= "height: 5vh;" src="https://img.shields.io/badge/-Website-0F0F0F"></img></a>
   <a href="https://medium.com/@gabrieltavares1303" target="_blank"><img style= "height: 5vh;" src="https://img.shields.io/badge/-Medium-F0F0F0"></img></a>
   <a href="https://www.instagram.com/gabriel.tvrs/" target="_blank"><img style= "height: 5vh;" src="https://img.shields.io/badge/-Instagram-0F0F0F"></img></a>
-  <a href="https://www.hackerrank.com/jgpt1" target="_blank"><img style= "height: 5vh;" src="https://img.shields.io/badge/-HackerRank-F0F0F0"></img></a>
 </div>
 
 # Highlighted projects 🔭
@@ -66,10 +65,6 @@
 
 ⚫ [Machine learning from scratch using Numpy](https://github.com/booleangabs/Machine-Learning-With-Numpy)
 
-⚫ [Pong in Java, Python and C++](https://github.com/booleangabs/Pong)
-
-⚫ [Data Science projects in Python and R](https://github.com/booleangabs/Data-Science-Projects)
-
 
 # Projects 🛰️
 - Image Processing
@@ -77,17 +72,15 @@
 - Machine Learning and related
   - [Machine learning from scratch using Numpy](https://github.com/booleangabs/Machine-Learning-With-Numpy)
   - [Probability and statistics in raw Python](https://github.com/booleangabs/Probability-and-Statistics-From-Scratch)
-  - [Data Science projects in Python and R](https://github.com/booleangabs/Data-Science-Projects)
-- Computer Vision and related
-  - [Computer vision projects](https://github.com/booleangabs/Computer-Vision-Projects)
+- Programmming and related
   - [Algorithms and Data Structures in Python and C++](https://github.com/booleangabs/Algorithms-and-Data-Structures)
 - Games
-  - [Pong in Java, Python and C++](https://github.com/booleangabs/Pong)
+  - ...
 - College Projects
   - [Game using Python - Introduction to Programming 2020.1](https://github.com/booleangabs/Projeto-IP-2020.1)
   - [Dashboard project with R and Shiny - Probability and Statistics for Computer Science 2020.2](https://github.com/booleangabs/Airlines-Data-Dashboard)
   - [Study notes and python code - Communication Infrastructure (Computer Networks and Internet) 2021.1](https://github.com/booleangabs/IF678-Computer-Networks-and-Internet)
-  - [Fake music player using concurrent programming in Java - Software Infrastructure 2021.1](https://github.com/booleangabs/infrasw-cc-2021.1-projeto_concorrencia)
+  - [Dummy music player using concurrent programming in Java - Software Infrastructure 2021.1](https://github.com/booleangabs/infrasw-cc-2021.1-projeto_concorrencia)
 ***
 
 # Github Information 📊
