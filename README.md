@@ -13,6 +13,12 @@
   </p>
 </div>
 
+# Highlighted projects 🔭
+⚫ [Probability and statistics in raw Python](https://github.com/booleangabs/Probability-and-Statistics-From-Scratch)
+
+⚫ [Image processing from scratch using Numpy](https://github.com/booleangabs/Image-Processing-With-Numpy)
+
+⚫ [Machine learning from scratch using Numpy](https://github.com/booleangabs/Machine-Learning-With-Numpy)
 
 # Skills 🧮
 
@@ -50,6 +56,21 @@
   <img style= "height: 4vh;" src="https://img.shields.io/badge/Intermediate-Linux-000000"></img>
 </div>
 
+
+# Projects 🛰️
+- Computer Vision
+  - [Efficient style transfer](https://github.com/booleangabs/Fast-Style-Transfer)
+- Image Processing
+  - [Hyperion: image processing library written in Halide/C++](https://github.com/booleangabs/Hyperion)
+  - [Image processing from scratch using Numpy](https://github.com/booleangabs/Image-Processing-With-Numpy)
+- Machine Learning and related
+  - [Machine learning from scratch using Numpy](https://github.com/booleangabs/Machine-Learning-With-Numpy)
+  - [Probability and statistics in raw Python](https://github.com/booleangabs/Probability-and-Statistics-From-Scratch)
+- Programmming and related
+  - [Algorithms and Data Structures in Python and C++](https://github.com/booleangabs/Algorithms-and-Data-Structures)
+
+***
+
 # Find me on ☎️
 <div align="center">
   <a href="https://www.linkedin.com/in/jgp-tavares/" target="_blank"><img style= "height: 5vh;" src="https://img.shields.io/badge/-LinkedIn-F0F0F0"></img></a>
@@ -57,31 +78,6 @@
   <a href="https://medium.com/@gabrieltavares1303" target="_blank"><img style= "height: 5vh;" src="https://img.shields.io/badge/-Medium-F0F0F0"></img></a>
   <a href="https://www.instagram.com/gabriel.tvrs/" target="_blank"><img style= "height: 5vh;" src="https://img.shields.io/badge/-Instagram-0F0F0F"></img></a>
 </div>
-
-# Highlighted projects 🔭
-⚫ [Probability and statistics in raw Python](https://github.com/booleangabs/Probability-and-Statistics-From-Scratch)
-
-⚫ [Image processing from scratch using Numpy](https://github.com/booleangabs/Image-Processing-With-Numpy)
-
-⚫ [Machine learning from scratch using Numpy](https://github.com/booleangabs/Machine-Learning-With-Numpy)
-
-
-# Projects 🛰️
-- Image Processing
-  - [Image processing from scratch using Numpy](https://github.com/booleangabs/Image-Processing-With-Numpy)
-- Machine Learning and related
-  - [Machine learning from scratch using Numpy](https://github.com/booleangabs/Machine-Learning-With-Numpy)
-  - [Probability and statistics in raw Python](https://github.com/booleangabs/Probability-and-Statistics-From-Scratch)
-- Programmming and related
-  - [Algorithms and Data Structures in Python and C++](https://github.com/booleangabs/Algorithms-and-Data-Structures)
-- Games
-  - ...
-- College Projects
-  - [Game using Python - Introduction to Programming 2020.1](https://github.com/booleangabs/Projeto-IP-2020.1)
-  - [Dashboard project with R and Shiny - Probability and Statistics for Computer Science 2020.2](https://github.com/booleangabs/Airlines-Data-Dashboard)
-  - [Study notes and python code - Communication Infrastructure (Computer Networks and Internet) 2021.1](https://github.com/booleangabs/IF678-Computer-Networks-and-Internet)
-  - [Dummy music player using concurrent programming in Java - Software Infrastructure 2021.1](https://github.com/booleangabs/infrasw-cc-2021.1-projeto_concorrencia)
-***
 
 # Github Information 📊
 <div align="center">
