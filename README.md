@@ -61,13 +61,11 @@
 - Computer Vision
   - [Efficient style transfer](https://github.com/booleangabs/Fast-Style-Transfer)
 - Image Processing
-  - [Hyperion: image processing library written in Halide/C++](https://github.com/booleangabs/Hyperion)
+  - [Image processing written in Halide/C++](https://github.com/booleangabs/Halide-examples)
   - [Image processing from scratch using Numpy](https://github.com/booleangabs/Image-Processing-With-Numpy)
 - Machine Learning and related
   - [Machine learning from scratch using Numpy](https://github.com/booleangabs/Machine-Learning-With-Numpy)
   - [Probability and statistics in raw Python](https://github.com/booleangabs/Probability-and-Statistics-From-Scratch)
-- Programmming and related
-  - [Algorithms and Data Structures in Python and C++](https://github.com/booleangabs/Algorithms-and-Data-Structures)
 
 ***
 
