@@ -80,5 +80,6 @@
 # Github Information 📊
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=booleangabs&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"></img>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=booleangabs&theme=dark&hide_border=true&background=0D1117"></img>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=booleangabs&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"></img>
 </div>
