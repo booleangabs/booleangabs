@@ -59,7 +59,7 @@
 
 # Projects 🛰️
 - Computer Vision
-  - [Efficient style transfer](https://github.com/booleangabs/Fast-Style-Transfer)
+  - [Super Resolution Experiments (focused on efficient methods)](https://github.com/booleangabs/Fast-Super-Resolution)
 - Image Processing
   - [Image processing written in Halide/C++](https://github.com/booleangabs/Halide-examples)
   - [Image processing from scratch using Numpy](https://github.com/booleangabs/Image-Processing-With-Numpy)
