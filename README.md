@@ -5,11 +5,11 @@
   <p>
   Interested in deep learning, image processing and computer vision
   </br>
-  Undergraduate Researcher in Computational Photography @ Projeto CIn / Softex
+  Undergraduate Researcher in Computational Photography @ Projeto CIn / Softex (April 2023-)
   </br>
-  Former Undergraduate Researcher in Computational Photography @ Projeto CIn / Motorola
+  Former Undergraduate Researcher in Computational Photography @ Projeto CIn / Motorola (Mar. 2022 - Mar. 2023)
   </br>
-  Former A.I. Team Leader @ <a href="https://github.com/RDAsaBranca" target="_blank">Asa Branca Aerospace</a> (2020-2022)
+  Former A.I. Team Leader @ <a href="https://github.com/RDAsaBranca" target="_blank">Asa Branca Aerospace</a> (Feb. 2020 - Feb. 2022)
   </br>
   Former Teaching Assistant for <a href="https://www.cin.ufpe.br/~if668/" target="_blank">IF668 - Introduction to Computer Science</a> (2020.2, 2021.1, 2021.2)   
   </p>
