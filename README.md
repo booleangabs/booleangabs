@@ -5,7 +5,7 @@
   <p>
   Interested in deep learning, image processing and computer vision
   </br>
-  Undergraduate Researcher in Computational Photography @ Projeto CIn / Softex (April 2023-)
+  Undergraduate Researcher in Computational Photography @ <a href="https://github.com/TIC-13" target="_blank">LuxAI</a> (April 2023-)
   </br>
   Former Undergraduate Researcher in Computational Photography @ Projeto CIn / Motorola (Mar. 2022 - Mar. 2023)
   </br>
